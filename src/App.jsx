@@ -288,7 +288,7 @@ const App = () => {
                 </div>
             </div>
 
-      // Replace the video section in your HomePage component with this:
+      // Replace the video section in your HomePage component with this
 
             <div className="py-16 bg-gray-900 text-white">
                 <div className="max-w-7xl mx-auto px-4">
